@@ -1,17 +1,4 @@
 <body>
-	<style>
-		table[data-ke-style='style12'] tr:nth-child(odd) td {
-			background-color: #f0f0f0;
-		}
-    	table[data-ke-style='style12'] tr td:first-child {
-    		background-color: #dcdddd;
-    	}
-    	table[data-ke-style='style12'] tr:first-child td {
-    		background-color: #9b9b9b;
-    		border: 1px solid #9b9b9b;
-    		color: #fff;
-    	}
-    </style>
 	<table style="border-collapse: collapse; width: 100%; height: 623px;" border="1" data-ke-style="style12">
 		<tbody>
 		<tr style="height: 20px;">

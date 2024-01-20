@@ -1,6 +1,4 @@
-<!doctype html>
-<head>
-	<title>test</title>
+<body>
 	<style>
 		table[data-ke-style='style12'] tr:nth-child(odd) td {
 			background-color: #f0f0f0;
@@ -14,10 +12,6 @@
     		color: #fff;
     	}
     </style>
-
-</head>
-
-<body>
 	<table style="border-collapse: collapse; width: 100%; height: 623px;" border="1" data-ke-style="style12">
 		<tbody>
 		<tr style="height: 20px;">
@@ -161,4 +155,3 @@
 		</tbody>
 		</table>
 </body>
-</html>
